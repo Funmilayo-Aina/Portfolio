@@ -12,53 +12,71 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 ## *The Journey of a Data Scientist* ##
 
 
-Project 1 
-BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)
+### Project 1 
+
+*BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)
+
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
-We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo 2
-Project 4
+We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo
+
+###Project 2
+
 Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
 Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
 
-Tools: scikit-learn, Pandas, Seaborn, Matplotlib,Pickle, Tools: MySQL, PostGre SQL,MongoDB,SQLite3 Tableau, Git, Advanced Excel,VBA, MS Suit, G-Suits,
+#### Tools Familiar with :
+
+  scikit-learn, Pandas, Seaborn, Matplotlib,Pickle,MySQL, PostGre SQL,MongoDB,SQLite3 Tableau, Git, Advanced Excel,VBA, MS Suits, G-Suits,Django frame  work,HTML,CSS,Javascript,ETL process,C programming,PHP,Power BI
+
+### Core Competencies
+
+  Methodologies: Machine Learning, Statistics Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), R 
+  Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau
+  Programming languages:Python 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Data Analysis and Visualisation
-Data Analysis and Visualization (Python Programming)
-KMPG Data Analytic Virtual Experience.
-Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-BCG Open Access Advance Analytics and Machine Learning
-Udemy Market Analysis for Courses that can increase revenue generation.
-Tools: Pandas, Folium, Seaborn and Matplotlib, Pivot Table, Google sheet,Tableau
-Details: Tableau
- Inferential Statistics and statistical modelling: Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)
+### Data Analysis and Visualisation
+
+#### Data Analysis and Visualization (Python Programming)
+   ### KMPG Data Analytic Virtual Experience.
+   
+    *Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+    *BCG Open Access Advance Analytics and Machine Learning
+    *Udemy Market Analysis for Courses that can increase revenue generation.
+   
+    *Inferential Statistics and statistical modelling: Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)
+------------------------------------------------------------------------------------------------------------------------------------------
+### Web Crawling
+ Web Crawling with BeautifulSoup: Use Python BeautifulSoup to collect and clean job listing data from twittter.com and others
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Experience ###
-Content moderation and basic data analysis –Ask The PAediatricians Foundation
 
-Working and Learning Repository: Tableau ,Medium and Github
+*Content moderation and basic data analysis –Ask The PAediatricians Foundation
 
-------------------------------------------------------------------------------------------------------------------------------------------
+### Working and Learning Repository: 
+   Tableau ,Medium and Github
 
 
-
-Web Crawling with BeautifulSoup: Use Python BeautifulSoup to collect and clean job listing data from twittter.com and 
 . ------------------------------------------------------------------------------------------------------------------------------------------
-Achievements
+### Achievements
+
 Anita Borg Scholarship
 Two times the most active and outstanding Ask The Paediatrician Foundation Moderator
 Recipient of  Udacity/AWS Machine learning Foundation Scholarship 
 
 
 
-Publication: udemy Marketing Analysis A unique insight : Tableau.
+### Publication: 
+
+Udemy Marketing Analysis A unique insight : Tableau.
 
 SQL Challenges: This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
-Core Competencies
-Methodologies: Machine Learning, Statistics Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, seaborn,Matplotlib), R ,SQL, C
+
 Certificates
 Data Science and Analytics Intro : IBM
 
@@ -147,4 +165,4 @@ Issuing authorityNational Health Care Provider Solutions
  
 Health care market place
 Issuing authorityCoursera
-
+ Visit my github repositories,Tablaeu or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
