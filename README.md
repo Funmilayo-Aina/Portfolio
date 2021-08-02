@@ -113,6 +113,11 @@ Issuing authorityUdemy
  
 Ultimate Python Bootcamp For Data Science & Machine Learning
 Issuing authorityUdemy
+FREE CODE CAMP - Python for Everybody, Data analysis with Python (In-progress)
+Udacity/AWS Machine Learning program (In-progress)
+Volunteer Courses - Ask The Paediatrician Foundation
+
+
  
 Python for Data Science & Machine Learning from A-Z
 Issuing authorityUdemy
