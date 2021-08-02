@@ -172,4 +172,9 @@ Approaches to softwaredevelopment  Issuing authorityOpenlearn
 Project management: the start of the project journey Issuing authorityOpenlearn
 Software development for enterprise systems Issuing authorityOpenlearn
 
+### Professional Association ###
+Global Ambassador and Session Facilitator:@Women TechNetwork
+Silver Ambassador @Women In Cloud
+Member and Scholar @AnitaB.Org
+
  Visit my github repositories,Tablaeu or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
