@@ -42,11 +42,13 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 #### Data Analysis and Visualization (Python Programming)
    ### KMPG Data Analytic Virtual Experience.
    
-    *Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-    *BCG Open Access Advance Analytics and Machine Learning
-    *Udemy Market Analysis for Courses that can increase revenue generation.
+    Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+    BCG Open Access Advance Analytics and Machine Learning
+    Udemy Market Analysis for Courses that can increase revenue generation.
    
-    *Inferential Statistics and statistical modelling: Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)
+ ### Inferential Statistics and statistical modelling:
+ 
+ Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- Women Techsters Mini project
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Web Crawling
  Web Crawling with BeautifulSoup: Use Python BeautifulSoup to collect and clean job listing data from twittter.com and others
