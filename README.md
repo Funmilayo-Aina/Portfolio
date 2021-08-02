@@ -165,4 +165,11 @@ Issuing authorityNational Health Care Provider Solutions
  
 Health care market place
 Issuing authorityCoursera
+### Statement of Participation ###
+
+Project governance and Project Management Office (PMO) Issuing authorityOpenlearn
+Approaches to softwaredevelopment  Issuing authorityOpenlearn
+Project management: the start of the project journey Issuing authorityOpenlearn
+Software development for enterprise systems Issuing authorityOpenlearn
+
  Visit my github repositories,Tablaeu or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
