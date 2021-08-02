@@ -4,6 +4,7 @@
 LinkedIn: https://www.linkedin.com/in/funmilayomaina/
 
 Email: Funmilayomaryaina@yahoo.com
+https://www.credly.com/users/funmilayo-aina/badges
 
 For a more visually pleasant experience for browsing the portfolio you can also, check out GirlTechyScientist.com or FunmilayoAina.Pythonanywhere.com
 
