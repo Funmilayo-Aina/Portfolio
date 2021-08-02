@@ -4,7 +4,6 @@
 LinkedIn: https://www.linkedin.com/in/funmilayomaina/
 
 Email: Funmilayomaryaina@yahoo.com
-https://www.credly.com/users/funmilayo-aina/badges
 
 For a more visually pleasant experience for browsing the portfolio you can also, check out GirlTechyScientist.com or FunmilayoAina.Pythonanywhere.com
 
@@ -13,7 +12,7 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 ## *The Journey of a Data Scientist* ##
 
 
-### Project 1 
+### Project 1 ###
 
 *BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)
 
@@ -21,19 +20,19 @@ PowerCo is a major gas and electricity utility that supplies to corporate, SME (
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo
 
-###Project 2
+### Project 2
 
 Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
 Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
 
 #### Tools Familiar with :
 
-  scikit-learn, Pandas, Seaborn, Matplotlib,Pickle,MySQL, PostGre SQL,MongoDB,SQLite3 Tableau, Git, Advanced Excel,VBA, MS Suits, G-Suits,Django frame  work,HTML,CSS,Javascript,ETL process,C programming,PHP,Power BI
+  Pickle,MySQL, PostGre SQL,,HTML,CSS,Javascript,ETL process,C programming,PHP,Power BI,SAS
 
 ### Core Competencies
 
-  Methodologies: Machine Learning, Statistics Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), R 
-  Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau
+  Methodologies: Machine Learning, Statistics Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib),R 
+  Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits,Django framework
   Programming languages:Python 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -74,16 +73,17 @@ Recipient of  Udacity/AWS Machine learning Foundation Scholarship
 
 ### Publication: 
 
-Udemy Marketing Analysis A unique insight : Tableau.
+### Udemy Marketing Analysis A unique insight : 
+Tableau.
 
-SQL Challenges: This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
+### SQL Challenges: 
+This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
 
-Certificates
-Data Science and Analytics Intro : IBM
-
- 
+### Certificates 
+(https://github.com/Funmilayo-Aina/Certificates)
+Data Science and Analytics Intro : 
 Data Science Fundamentals
-Issuing authorityIBM
+(https://www.credly.com/users/funmilayo-aina/badges) Issuing authority IBM
 
 The Data Science MicroDegree: Data Analysis & Visualization
  
@@ -129,43 +129,29 @@ Issuing authorityUdemy
 SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1
 Issuing authorityUdemy
  
-Project governance and Project Management Office (PMO)(Advance)
-Issuing authorityThe Open University
+Project governance and Project Management Office (PMO)(Advance) Issuing authorityThe Open University
  
-Project management: the start of the project journey(Advance)
-Issuing authorityThe Open University
+Project management: the start of the project journey(Advance) Issuing authorityThe Open University
  
-Scrum Master Certification & Agile Scrum Project Management
-Issuing authorityUdemy
+Scrum Master Certification & Agile Scrum Project Management Issuing authority Udemy
  
-[2021] Agile Project Management 19 Courses in 1
-Issuing authorityUdemy
+[2021] Agile Project Management 19 Courses in 1 Issuing authority Udemy
  
 
-COMPUTER PROGRAMMING FOR EVERYONE
-Issuing authorityInstitute of Coding
+COMPUTER PROGRAMMING FOR EVERYONE Issuing authority Institute of Coding
 Credential IdentifierCredential ID FUTURE LEARN
- 
 Public health
 Issuing authorityAlison - Free Online Learning
 
-DNA to Protein Function Using Bioinformatics
-Issuing authorityWellcome Genome Campus
+DNA to Protein Function Using Bioinformatics Issuing authority Wellcome Genome Campus
  
-Advanced Cardiac Life Support (ACLS)
-Issuing authorityNational Health Care Provider Solutions
+Advanced Cardiac Life Support (ACLS) Issuing authority National Health Care Provider Solutions
+ BBP Issuing authority National Health Care Provider Solutions
  
-BBP
-Issuing authorityNational Health Care Provider Solutions
+Basic Life Support (BLS) Issuing authorityNational Health Care Provider Solutions
  
-Basic Life Support (BLS)
-Issuing authorityNational Health Care Provider Solutions
- 
-Online CPR/AED Course
-Issuing authorityNational Health Care Provider Solutions
- 
-Health care market place
-Issuing authorityCoursera
+Online CPR/AED Course Issuing authorityNational Health Care Provider Solutions
+ Health care market place Issuing authorityCoursera
 ### Statement of Participation ###
 
 Project governance and Project Management Office (PMO) Issuing authorityOpenlearn
