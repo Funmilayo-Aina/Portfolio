@@ -88,10 +88,10 @@ Tableau.
 This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
 
 ### Certificates 
-(https://github.com/Funmilayo-Aina/Certificates)
+[Certificates💻](https://www.linkedin.com/in/funmilayomaina/)
 -Data Science and Analytics Intro : 
 -Data Science Fundamentals
-(https://www.credly.com/users/funmilayo-aina/badges) Issuing authority IBM
+[Check on👍 Credly.com](https://www.credly.com/users/funmilayo-aina/badges) Issuing authority IBM
 
 -The Data Science MicroDegree: Data Analysis & Visualization
  
