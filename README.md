@@ -28,7 +28,10 @@ We have been asked to go deeper on the hypothesis that the churn is driven by th
 
 ### Project 2
 
-Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
+### Predicting Boston Housing Prices ![dillon-kydd-2keCPb73aQY-unsplash](https://user-images.githubusercontent.com/84969489/128059426-ffda4d4c-9aab-47d4-938d-ca83b7b21ece.jpg)
+ 
+
+A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
 Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
 
 #### Tools Familiar with :
