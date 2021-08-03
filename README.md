@@ -46,7 +46,8 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data Analysis and Visualisation ![Uploading luke-chesser-JKUTrJ4vK00-unsplash.jpg…]()
+### Data Analysis and Visualisation ![luke-chesser-JKUTrJ4vK00-unsplash](https://user-images.githubusercontent.com/84969489/128060391-e16c2546-b483-4e0b-ab21-aa73c8ed6653.jpg)
+
 
 
 #### Data Analysis and Visualization (Python Programming)
@@ -173,6 +174,7 @@ Basic Life Support (BLS) Issuing authorityNational Health Care Provider Solution
  
 Online CPR/AED Course Issuing authorityNational Health Care Provider Solutions
  Health care market place Issuing authorityCoursera
+ 
 ### Statement of Participation ###
 
 Project governance and Project Management Office (PMO) Issuing authorityOpenlearn
