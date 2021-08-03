@@ -40,14 +40,14 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 
 ### Core Competencies
 
-  ### Tools and Methodologies:
   Machine Learning, Statistics Languages Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib),R 
   Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits,Django framework
   Programming languages:Python 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data Analysis and Visualisation
+### Data Analysis and Visualisation ![Uploading luke-chesser-JKUTrJ4vK00-unsplash.jpg…]()
+
 
 #### Data Analysis and Visualization (Python Programming)
    ### KMPG Data Analytic Virtual Experience.
