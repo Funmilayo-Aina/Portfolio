@@ -1,7 +1,7 @@
 # Welcome to Funmilayo Aina's Portfolio
 =========================================================================== 
 #### *A Portfolio of the compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my certificates, skills and, achievements.* ####
-LinkedIn: https://www.linkedin.com/in/funmilayomaina/
+[LinkedIn](https://www.linkedin.com/in/funmilayomaina/) 
 
 Email: Funmilayomaryaina@yahoo.com
 
@@ -35,7 +35,8 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 
 ### Core Competencies
 
-  Methodologies: Machine Learning, Statistics Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib),R 
+  ### Tools and Methodologies:
+  Machine Learning, Statistics Languages Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib),R 
   Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits,Django framework
   Programming languages:Python 
 
@@ -46,23 +47,24 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 #### Data Analysis and Visualization (Python Programming)
    ### KMPG Data Analytic Virtual Experience.
    
-    Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-    BCG Open Access Advance Analytics and Machine Learning
-    Udemy Market Analysis for Courses that can increase revenue generation.
+   - Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas      and Seaborn visualisations.
+    - BCG Open Access Advance Analytics and Machine Learning
+    - Udemy Market Analysis for Courses that can increase revenue generation.
    
  ### Inferential Statistics and statistical modelling:
  
  Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- Women Techsters Mini project
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Web Crawling
+
  Web Crawling with BeautifulSoup: Use Python BeautifulSoup to collect and clean job listing data from twittter.com and others
 
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Experience ###
 
-*Content moderation and basic data analysis –Ask The PAediatricians Foundation
+- Content moderation and basic data analysis –Ask The PAediatricians Foundation
 
 ### Working and Learning Repository: 
    Tableau ,Medium and Github
@@ -71,9 +73,9 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 . ------------------------------------------------------------------------------------------------------------------------------------------
 ### Achievements
 
-Anita Borg Scholarship
-Two times the most active and outstanding Ask The Paediatrician Foundation Moderator
-Recipient of  Udacity/AWS Machine learning Foundation Scholarship 
+- Anita Borg Scholarship
+- Two times the most active and outstanding Ask The Paediatrician Foundation Moderator
+- Recipient of  Udacity/AWS Machine learning Foundation Scholarship 
 
 
 
@@ -87,31 +89,31 @@ This repository contains codes of online SQL challenges (From Hackerrank, Leetco
 
 ### Certificates 
 (https://github.com/Funmilayo-Aina/Certificates)
-Data Science and Analytics Intro : 
-Data Science Fundamentals
+-Data Science and Analytics Intro : 
+-Data Science Fundamentals
 (https://www.credly.com/users/funmilayo-aina/badges) Issuing authority IBM
 
-The Data Science MicroDegree: Data Analysis & Visualization
+-The Data Science MicroDegree: Data Analysis & Visualization
  
-Data Analysis & Visualization: Python | Excel | BI | Tableau
+-Data Analysis & Visualization: Python | Excel | BI | Tableau
 Issuing authorityUdemy
  
-Intro to Machine Leraning
+-Intro to Machine Leraning
 Issuing authorityKaggle
  
-Kaggle Intermediate Machine Learning
+-Kaggle Intermediate Machine Learning
 Issuing authorityKaggle
  
-Web Scraping with Beautiful Soup for Data Science
+-Web Scraping with Beautiful Soup for Data Science
 Issuing authorityUdemy
  
-Python 3 programming Specialization
+-Python 3 programming Specialization
 Issuing authorityCoursera
  
-R programming
+-R programming
 Issuing authorityCoursera
  
-SQL Boot Camp with MySQL ,PHP and Python
+-SQL Boot Camp with MySQL ,PHP and Python
 Issuing authorityUdemy
  
 MySQL Database Development Mastery
