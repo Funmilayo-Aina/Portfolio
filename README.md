@@ -59,8 +59,8 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
    
  ### Inferential Statistics and statistical modelling:
  
- Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- Women Techsters Mini project
-------------------------------------------------------------------------------------------------------------------------------------------
+ #### Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- Women Techsters Mini project
+-----------------------------------------------------------------------------------------------------------------------------
 ### Web Crawling
 
  Web Crawling with BeautifulSoup: Use Python BeautifulSoup to collect and clean job listing data from twittter.com and others
