@@ -89,9 +89,12 @@ This repository contains codes of online SQL challenges (From Hackerrank, Leetco
 
 ### Certificates 
 [Certificates💻](https://www.linkedin.com/in/funmilayomaina/)
+
 -Data Science and Analytics Intro : 
 -Data Science Fundamentals
-[Check on👍 Credly.com](https://www.credly.com/users/funmilayo-aina/badges) Issuing authority IBM
+
+[Check on👍 Credly.com](https://www.credly.com/users/funmilayo-aina/badges) 
+Issuing authority IBM
 
 -The Data Science MicroDegree: Data Analysis & Visualization
  
