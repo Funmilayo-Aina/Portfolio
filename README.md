@@ -88,7 +88,7 @@ Tableau.
 This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
 
 ### Certificates 
-[Certificates💻](https://www.linkedin.com/in/funmilayomaina/)
+[Certificates💻](https://github.com/Funmilayo-Aina/Certificates)
 
 -Data Science and Analytics Intro : 
 -Data Science Fundamentals
