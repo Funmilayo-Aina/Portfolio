@@ -17,6 +17,7 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 
 ### Project 1 ###
+![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/84969489/128058361-d273ae20-abc0-482d-930a-6be2adc8b6fc.jpg)
 
 *BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)
 
