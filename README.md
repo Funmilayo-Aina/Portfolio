@@ -9,6 +9,10 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
 
+##  About me 
+
+*Funmilayo is a graduate of Biology Education, with a career shift to Data Science / Analytics. She is enthusiastic about data and the use of data oriented and analytical skills to promote business intelligence, decision making and actionable insights. A proactive fast learner of emerging technologies seeking an opportunity to increase aptitude in analytics and to work in a machine learning domain, utilizing analytical and methodical skills to help the company achieve business goals.
+
 ## *The Journey of a Data Scientist* ##
 
 
