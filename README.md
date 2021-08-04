@@ -49,7 +49,8 @@ We have been asked to go deeper on the hypothesis that the churn is driven by th
 
 A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
 
-### [Titanic Disaster]https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship ![peter-hansen-MeGmdPNe36w-unsplash](https://user-images.githubusercontent.com/84969489/128207850-bd3ca11d-d4e7-4a3f-96ae-ebe1dc99b663.jpg)
+### [Titanic Disaster](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+![peter-hansen-MeGmdPNe36w-unsplash](https://user-images.githubusercontent.com/84969489/128207850-bd3ca11d-d4e7-4a3f-96ae-ebe1dc99b663.jpg)
 
  Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
 
@@ -116,7 +117,7 @@ A model to predict the value of a given house in the Boston real estate market u
 - This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
 
 ### Certificates 
-[Certificates💻](https://github.com/Funmilayo-Aina/Certificates)
+[View Certificates💻](https://github.com/Funmilayo-Aina/Certificates)
 
 -Data Science and Analytics Intro : 
 -Data Science Fundamentals
@@ -199,9 +200,9 @@ Issuing authorityAlison - Free Online Learning
 - Software development for enterprise systems Issuing authorityOpenlearn
 
 ### Professional Association ###
-Global Ambassador and Session Facilitator:@Women TechNetwork
-Silver Ambassador @Women In Cloud
-Member and Scholar @AnitaB.Org
+- Global Ambassador and Session Facilitator:@Women TechNetwork
+- Silver Ambassador @Women In Cloud
+- Member and Scholar @AnitaB.Org
 
 ###### You can contact me through the link on my profile.
 
