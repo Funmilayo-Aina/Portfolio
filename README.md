@@ -19,6 +19,13 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 ### Projects ###
 [Women Techster Fellowship 2021(Data Science and AI Track)](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+#### Module 1:
+
+#### Module 2:
+
+#### Module 3:
+
+#### Module 4:
 
 
 *BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
