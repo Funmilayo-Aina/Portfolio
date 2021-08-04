@@ -33,20 +33,23 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 
 
-*BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
+[BCG Open Access Advance Analytics and Machine Learning]( Churn Prediction)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
 
--input
+- input
+
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo
--Output and impact
+- Output and impact: 
+  After advanced data analysis and modelling. The was a clear evidence that discount would not prevent customers from churning
 
 ![dillon-kydd-2keCPb73aQY-unsplash](https://user-images.githubusercontent.com/84969489/128059426-ffda4d4c-9aab-47d4-938d-ca83b7b21ece.jpg)
+
 ### [Predicting Boston Housing Prices](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
 
 A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
 
-### Titanic Disaster ![peter-hansen-MeGmdPNe36w-unsplash](https://user-images.githubusercontent.com/84969489/128207850-bd3ca11d-d4e7-4a3f-96ae-ebe1dc99b663.jpg)
+### [Titanic Disaster]https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship ![peter-hansen-MeGmdPNe36w-unsplash](https://user-images.githubusercontent.com/84969489/128207850-bd3ca11d-d4e7-4a3f-96ae-ebe1dc99b663.jpg)
 
  Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
 
@@ -54,7 +57,7 @@ A model to predict the value of a given house in the Boston real estate market u
 
   - HTML, CSS, Javascript, 
 #### Basic knowledge in:
-   C programming, PHP, PowerBI, SAS, R 
+   - C programming, PHP, PowerBI, SAS, R 
 ### Core Competencies
 
   Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), 
@@ -66,30 +69,32 @@ A model to predict the value of a given house in the Boston real estate market u
 
 
 #### Data Analysis and Visualization (Python Programming) projects
-   - KMPG Data Analytic Virtual Experience.
+   - [KMPG Data Analytic Virtual Experience](https://github.com/Funmilayo-Aina/KPMG-Data-Analytics-Virual-Experience)
+   
    - Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas      and Seaborn visualisations.
     - BCG Open Access Advance Analytics and Machine Learning
     - Udemy Market Analysis for Courses that can increase revenue generation.
    
- #### Inferential Statistics and statistical modelling: ####
+ #### Inferential Statistics and statistical modelling:👇 ####
  
  #### Women Techsters Mini project
  
--Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- 
------------------------------------------------------------------------------------------------------------------------------
-### Web Crawling
+- Analysis of Women Abused during Covid_19 lockdown and community intervention using rapid response App (She’ro App) 
 
- Web Crawling with BeautifulSoup: Use Python BeautifulSoup to collect and clean job listing data from twittter.com and others
+#### Web Crawling
+
+ Web Crawling with BeautifulSoup:
+ Use of BeautifulSoup to collect and clean job listing data from twittter.com and others
 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Experience ###
 
-- Content moderation and basic data analysis –Ask The PAediatricians Foundation
+- Content moderation and basic data analysis –Ask The Paediatricians Foundation
 
 ### Working and Learning Repository: 
-   Tableau ,Medium and Github
+  - Tableau ,Medium and Github
 
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -103,11 +108,12 @@ A model to predict the value of a given house in the Boston real estate market u
 
 ### Publication: 
 
-### Udemy Marketing Analysis A unique insight : 
-Tableau.
+### [Udemy Marketing Analysis A unique insight : ](https://github.com/Funmilayo-Aina/Entrylevel-Challenge-Data-Analytics-Track)
+- Advance Excel and Tableau.
 
-### SQL Challenges: 
-This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
+### [SQL Challenge:](https://github.com/Funmilayo-Aina/Hacker-Rank-and-LeetCode-Challenge) 
+
+- This repository contains codes of online SQL challenges (From Hackerrank, Leetcode) solved by me.
 
 ### Certificates 
 [Certificates💻](https://github.com/Funmilayo-Aina/Certificates)
@@ -129,78 +135,74 @@ Issuing authorityKaggle
 - Kaggle Intermediate Machine Learning
 Issuing authorityKaggle
  
--Web Scraping with Beautiful Soup for Data Science
+- Web Scraping with Beautiful Soup for Data Science
 Issuing authorityUdemy
  
--Python 3 programming Specialization
+- Python 3 programming Specialization
 Issuing authorityCoursera
  
--R programming
+-  R programming
 Issuing authorityCoursera
  
 -SQL Boot Camp with MySQL ,PHP and Python
 Issuing authorityUdemy
  
-MySQL Database Development Mastery
+- MySQL Database Development Mastery
 Issuing authorityUdemy
  
-Ultimate Python Bootcamp For Data Science & Machine Learning
+- Ultimate Python Bootcamp For Data Science & Machine Learning
 Issuing authorityUdemy
-FREE CODE CAMP - Python for Everybody, Data analysis with Python (In-progress)
-Udacity/AWS Machine Learning program (In-progress)
-Volunteer Courses - Ask The Paediatrician Foundation
+- FREE CODE CAMP - Python for Everybody, Data analysis with Python (In-progress)
+- Udacity/AWS Machine Learning program (In-progress)
+- Volunteer Courses - Ask The Paediatrician Foundation
 
 
  
-Python for Data Science & Machine Learning from A-Z
+- Python for Data Science & Machine Learning from A-Z
 Issuing authorityUdemy
  
-Approaches to software development
+- Approaches to software development
 Issuing authorityThe Open University
  
-Master Advanced Excel & Data Analytics with Excel PivotTables
+- Master Advanced Excel & Data Analytics with Excel PivotTables
 Issuing authorityUdemy
- Microsoft Advanced Excel training
-Master all the MS Excel Macros and Excel VBA
-Issuing authorityUdemy
- 
-SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1
+ - Microsoft Advanced Excel training
+- Master all the MS Excel Macros and Excel VBA
 Issuing authorityUdemy
  
-Project governance and Project Management Office (PMO)(Advance) Issuing authorityThe Open University
+- SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1
+Issuing authorityUdemy
  
-Project management: the start of the project journey(Advance) Issuing authorityThe Open University
+- Project governance and Project Management Office (PMO)(Advance) Issuing authorityThe Open University
  
-Scrum Master Certification & Agile Scrum Project Management Issuing authority Udemy
+- Project management: the start of the project journey(Advance) Issuing authorityThe Open University
  
-[2021] Agile Project Management 19 Courses in 1 Issuing authority Udemy
+- Scrum Master Certification & Agile Scrum Project Management Issuing authority Udemy
+ 
+- [2021] Agile Project Management 19 Courses in 1 Issuing authority Udemy
  
 
-COMPUTER PROGRAMMING FOR EVERYONE Issuing authority Institute of Coding
+- COMPUTER PROGRAMMING FOR EVERYONE Issuing authority Institute of Coding
 Credential IdentifierCredential ID FUTURE LEARN
-Public health
+- Public health
 Issuing authorityAlison - Free Online Learning
 
-DNA to Protein Function Using Bioinformatics Issuing authority Wellcome Genome Campus
+- DNA to Protein Function Using Bioinformatics Issuing authority Wellcome Genome Campus
  
-Advanced Cardiac Life Support (ACLS) Issuing authority National Health Care Provider Solutions
- BBP Issuing authority National Health Care Provider Solutions
- 
-Basic Life Support (BLS) Issuing authorityNational Health Care Provider Solutions
- 
-Online CPR/AED Course Issuing authorityNational Health Care Provider Solutions
- Health care market place Issuing authorityCoursera
+ - Health care market place Issuing authorityCoursera
  
 ### Statement of Participation ###
 
-Project governance and Project Management Office (PMO) Issuing authorityOpenlearn
-Approaches to softwaredevelopment  Issuing authorityOpenlearn
-Project management: the start of the project journey Issuing authorityOpenlearn
-Software development for enterprise systems Issuing authorityOpenlearn
+- Project governance and Project Management Office (PMO) Issuing authorityOpenlearn
+- Approaches to softwaredevelopment  Issuing authorityOpenlearn
+- Project management: the start of the project journey Issuing authorityOpenlearn
+- Software development for enterprise systems Issuing authorityOpenlearn
 
 ### Professional Association ###
 Global Ambassador and Session Facilitator:@Women TechNetwork
 Silver Ambassador @Women In Cloud
 Member and Scholar @AnitaB.Org
+
+###### You can contact me through the link on my profile.
 
  Visit my github repositories,Tablaeu or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
