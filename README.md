@@ -17,7 +17,9 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 ![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/84969489/128058361-d273ae20-abc0-482d-930a-6be2adc8b6fc.jpg)
 
-### Project 1 ###
+### Projects ###
+[Women Techster Fellowship 2021(Data Science and AI Track)](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+
 
 *BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
 
@@ -26,7 +28,6 @@ PowerCo is a major gas and electricity utility that supplies to corporate, SME (
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo
 
-### Project 2
 
 ### Predicting Boston Housing Prices ![dillon-kydd-2keCPb73aQY-unsplash](https://user-images.githubusercontent.com/84969489/128059426-ffda4d4c-9aab-47d4-938d-ca83b7b21ece.jpg)
  
@@ -44,14 +45,12 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
   Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits,Django framework
   Programming languages:Python 
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Data Analysis and Visualisation ![luke-chesser-JKUTrJ4vK00-unsplash](https://user-images.githubusercontent.com/84969489/128060391-e16c2546-b483-4e0b-ab21-aa73c8ed6653.jpg)
 
 
-
 #### Data Analysis and Visualization (Python Programming)
-   ### KMPG Data Analytic Virtual Experience.
+### KMPG Data Analytic Virtual Experience.
    
    - Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas      and Seaborn visualisations.
     - BCG Open Access Advance Analytics and Machine Learning
