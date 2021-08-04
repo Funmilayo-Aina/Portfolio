@@ -218,4 +218,4 @@ Issuing authority Alison
 
 ###### You can contact me through the link on my profile.
 
- Visit my github repositories,[Tablaeu](https://public.tableau.com/app/profile/funmilayo.aina) or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
+ Visit my github repositories,[Tableau](https://public.tableau.com/app/profile/funmilayo.aina) or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
