@@ -1,6 +1,6 @@
 # Welcome to Funmilayo Aina's Portfolio
 =========================================================================== 
-#### *A Portfolio of the compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my certificates, skills and, achievements.* ####
+#### * A Portfolio of the compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my certificates, skills and, achievements.* ####
 [LinkedIn: Funmilayo Aina](https://www.linkedin.com/in/funmilayomaina/) 
 
 Email: Funmilayomaryaina@yahoo.com
