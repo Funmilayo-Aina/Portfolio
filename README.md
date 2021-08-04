@@ -22,9 +22,9 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 [Module 1:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 -  python programming
--  Using Python for data analysis.
-- Using Advance Excel for financial analysis
-- Using Macro for responsive App creation
+-  Using python for data analysis.
+- Using advance Excel for financial analysis
+- Using macro for responsive app creation
 - 
 [Module 2:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
@@ -34,7 +34,7 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 -
 -
 [Module 4:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
-Using Business intelligence tools like Power BI and Tableau for visualization and to develop analytics interactive dashboards.
+- Using Business intelligence tools like Power BI and Tableau for visualization and to develop analytics interactive dashboards.
 
 
 • .
@@ -44,9 +44,9 @@ Using Business intelligence tools like Power BI and Tableau for visualization an
 • 
 
 
-[BCG Open Access Advance Analytics and Machine Learning]( Churn Prediction)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
+[BCG Open Access Advance Analytics and Machine Learning( Churn Prediction)](https://github.com/Funmilayo-Aina/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
 
-- input
+- Input
 
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
@@ -106,7 +106,7 @@ A model to predict the value of a given house in the Boston real estate market u
 - Content moderation and basic data analysis –Ask The Paediatricians Foundation
 
 ### Working and Learning Repository: 
-  - Tableau ,Medium and Github
+  - Tableau , Medium and Github
 
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -156,7 +156,7 @@ Issuing authorityCoursera
 -  R programming
 Issuing authorityCoursera
  
--SQL Boot Camp with MySQL ,PHP and Python
+- SQL Boot Camp with MySQL ,PHP and Python
 Issuing authorityUdemy
  
 - MySQL Database Development Mastery
@@ -197,11 +197,12 @@ Issuing authorityUdemy
 - COMPUTER PROGRAMMING FOR EVERYONE Issuing authority Institute of Coding
 Credential IdentifierCredential ID FUTURE LEARN
 - Public health
-Issuing authorityAlison - Free Online Learning
+Issuing authority Alison 
 
 - DNA to Protein Function Using Bioinformatics Issuing authority Wellcome Genome Campus
  
- - Health care market place Issuing authorityCoursera
+ - Health care market place 
+ Issuing authorityCoursera
  
 ### Statement of Participation ###
 
