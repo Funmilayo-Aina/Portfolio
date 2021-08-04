@@ -49,28 +49,29 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 
 #### Tools Familiar with :
 
-  Pickle,MySQL, PostGre SQL,,HTML,CSS,Javascript,ETL process,C programming,PHP,Power BI,SAS
+  - HTML,CSS,Javascript,C programming,PHP,Power BI,SAS
 
 ### Core Competencies
 
-  Machine Learning, Statistics Languages Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib),R 
-  Querying languages:MySQL,SQLite3,PostGreSQL,MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits,Django framework
-  Programming languages:Python 
+  Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), R 
+  MySQL, SQLite3, PostGreSQL, MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits, Django framework
+  Python programming, ETL process
 
 
 ### Data Analysis and Visualisation ![luke-chesser-JKUTrJ4vK00-unsplash](https://user-images.githubusercontent.com/84969489/128060391-e16c2546-b483-4e0b-ab21-aa73c8ed6653.jpg)
 
 
-#### Data Analysis and Visualization (Python Programming)
-### KMPG Data Analytic Virtual Experience.
-   
+#### Data Analysis and Visualization (Python Programming) projects
+   -KMPG Data Analytic Virtual Experience.
    - Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas      and Seaborn visualisations.
     - BCG Open Access Advance Analytics and Machine Learning
     - Udemy Market Analysis for Courses that can increase revenue generation.
    
- ### Inferential Statistics and statistical modelling:
+ #### Inferential Statistics and statistical modelling: ####
  
- #### Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- Women Techsters Mini project
+ #### Women Techsters Mini project
+ 
+-Analysis of Women Abused during Covid_19 lockdown and community intevention using rapid response App (She’ro App)- 
 -----------------------------------------------------------------------------------------------------------------------------
 ### Web Crawling
 
@@ -87,7 +88,7 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
    Tableau ,Medium and Github
 
 
-. ------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 ### Achievements
 
 - Anita Borg Scholarship
@@ -113,15 +114,15 @@ This repository contains codes of online SQL challenges (From Hackerrank, Leetco
 [Check on👍 Credly.com](https://www.credly.com/users/funmilayo-aina/badges) 
 Issuing authority IBM
 
--The Data Science MicroDegree: Data Analysis & Visualization
+- The Data Science MicroDegree: Data Analysis & Visualization
  
--Data Analysis & Visualization: Python | Excel | BI | Tableau
+- Data Analysis & Visualization: Python | Excel | BI | Tableau
 Issuing authorityUdemy
  
--Intro to Machine Leraning
+- Intro to Machine Leraning
 Issuing authorityKaggle
  
--Kaggle Intermediate Machine Learning
+- Kaggle Intermediate Machine Learning
 Issuing authorityKaggle
  
 -Web Scraping with Beautiful Soup for Data Science
