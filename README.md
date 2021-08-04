@@ -11,14 +11,14 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 ##  About me 
 
-*Funmilayo is a graduate of Biology Education, with a career shift to Data Science / Analytics. She is enthusiastic about data and the use of data oriented and analytical skills to promote business intelligence, decision making and actionable insights. A proactive fast learner of emerging technologies seeking an opportunity to increase aptitude in analytics and to work in a machine learning domain, utilizing analytical and methodical skills to help the company achieve business goals.
+*Funmilayo is a graduate of Biology Education, with a career shift to Data Science / Analytics. She is enthusiastic about data and the use of data oriented and analytical skills to promote business intelligence, decision making and actionable insights. A proactive fast learner of emerging technologies seeking an opportunity to increase aptitude in analytics and to work in a machine learning domain, utilizing analytical and methodical skills to help the company achieve business goals.*
 
 ## *The Journey of a Data Scientist* ##
 
 ![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/84969489/128058361-d273ae20-abc0-482d-930a-6be2adc8b6fc.jpg)
 
 ### Projects ###
-[Women Techster Fellowship 2021(Data Science and AI Track)](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+[Women Techsters Fellowship 2021(Data Science and AI Track)](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
 [Module 1:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
@@ -35,25 +35,29 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 *BCG Open Access Advance Analytics and Machine Learning.( Churn Prediction)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
 
-
+-input
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo
+-Output and impact
 
-
-### Predicting Boston Housing Prices ![dillon-kydd-2keCPb73aQY-unsplash](https://user-images.githubusercontent.com/84969489/128059426-ffda4d4c-9aab-47d4-938d-ca83b7b21ece.jpg)
- 
+![dillon-kydd-2keCPb73aQY-unsplash](https://user-images.githubusercontent.com/84969489/128059426-ffda4d4c-9aab-47d4-938d-ca83b7b21ece.jpg)
+### [Predicting Boston Housing Prices](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
 
 A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
-Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
+
+### Titanic Disaster ![peter-hansen-MeGmdPNe36w-unsplash](https://user-images.githubusercontent.com/84969489/128207850-bd3ca11d-d4e7-4a3f-96ae-ebe1dc99b663.jpg)
+
+ Exploratory Data Analysis and Machine leanring – Titanic Disaster Competition: Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
 
 #### Tools Familiar with :
 
-  - HTML,CSS,Javascript,C programming,PHP,Power BI,SAS
-
+  - HTML, CSS, Javascript, 
+#### Basic knowledge in:
+   C programming, PHP, PowerBI, SAS, R 
 ### Core Competencies
 
-  Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), R 
+  Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), 
   MySQL, SQLite3, PostGreSQL, MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits, Django framework
   Python programming, ETL process
 
@@ -62,7 +66,7 @@ Project 3: Exploratory Data Analysis and Machine leanring – Titanic Disaster C
 
 
 #### Data Analysis and Visualization (Python Programming) projects
-   -KMPG Data Analytic Virtual Experience.
+   - KMPG Data Analytic Virtual Experience.
    - Titanic Disaster Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas      and Seaborn visualisations.
     - BCG Open Access Advance Analytics and Machine Learning
     - Udemy Market Analysis for Courses that can increase revenue generation.
