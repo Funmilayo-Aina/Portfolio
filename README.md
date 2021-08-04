@@ -19,11 +19,12 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 
 ### Projects ###
 [Women Techster Fellowship 2021(Data Science and AI Track)](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
- [Module 1:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
- [Module 2:)](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+[Module 1:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+
+[Module 2:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
  
- [Module 3:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
+[Module 3:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
  
 [Module 4:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
