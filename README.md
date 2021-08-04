@@ -87,7 +87,7 @@ A model to predict the value of a given house in the Boston real estate market u
     - BCG Open Access Advance Analytics and Machine Learning
     - Udemy Market Analysis for Courses that can increase revenue generation.
    
- #### Inferential Statistics and statistical modelling:👇 ####
+ #### Inferential Statistics and statistical modelling:👇 
  
  #### Women Techsters Mini project
  
@@ -218,4 +218,4 @@ Issuing authority Alison
 
 ###### You can contact me through the link on my profile.
 
- Visit my github repositories,Tablaeu or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
+ Visit my github repositories,[Tablaeu](https://public.tableau.com/app/profile/funmilayo.aina) or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
