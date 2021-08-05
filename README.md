@@ -32,20 +32,14 @@ For a more visually pleasant experience for browsing the portfolio you can also,
  - Django
  - JSON and Beautiful Soup
  - API
+ - 
 [Module 3:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 - ETL process
-- SQL (MySQL, SQLite3 , MongoDb)
+- SQL(MySQL, SQLite3 , MongoDb)
 - 
 [Module 4:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
-- Using Business intelligence tools like Power BI and Tableau for visualization and to develop analytics interactive dashboards.
-
-
-
-• .
-• 
-•
-• 
-• 
+- Machine learning
+- Using Business intelligence tools like Power BI and Tableau for visualization and to develop analytics interactive dashboards
 
 
 [BCG Open Access Advance Analytics and Machine Learning( Churn Prediction)](https://github.com/Funmilayo-Aina/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
