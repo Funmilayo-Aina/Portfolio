@@ -49,6 +49,40 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 - Learning PowerBI
 - Big Data
 
+[Entry level challenge(Data Analytics Track)]()
+- Input
+ #### Udemy Business Analysis
+ 
+There is a need for increasing revenue generation by Udemy.
+We have been asked to analyze the given historical dataset for trends that could show the impact of increasing the cost of web development courses as a means of generating the desired revenue.
+
+#### - Background
+Tracking courses performance on revenue generation and analyzing if charging more on popular courses would have a positive impact on Udemy revenue generation.
+Understanding where opportunities to increase revenue may lie.
+Furthermore analysis would allow us to size the business impact of a proposed increments.
+
+#### - Designs
+The data were cleaned with Google sheet and exported to Tableau for visualization.
+#### - Findings
+[👩View findings on Tableau](https://public.tableau.com/app/profile/funmilayo.aina)
+
+There were missing values in some columns while some columns have duplicate values. The duplicates were removed.
+The data was recorded with time stamp, we therefore transform the date to date only removing time stamp.
+Analysis of finding from the root cause
+The top 20 courses were web development courses. The review for the courses were also high.
+The rating for paid courses was high showing customers satisfactions.
+The number of course in top 20 and paid were more than those in free range.
+All level courses and Beginner courses have the highest level of subscribers filtered by rating.
+From hours of lecture reviews we may need to increase the hours for Web development courses.
+All level courses generates the highest revenue and web development tops the chart.
+The subscription for Expert level courses is extremely low, we need not increase the prices of those courses to prevent churning.
+#### - Conclusion
+The top 20 courses were truly web development courses. The reviews for the courses were also high as well rating for these courses indicating customers’ satisfactions.
+All level courses generates the highest revenue and web development tops the chart.
+ Dates shows a regular subscription trends. Therefore increasing the prices of ‘All level courses’ are ‘‘Beginner courses’ that are ‘Web Development courses’ would increase Udemy’s revenue generation.
+I recommend non increment of 'Expert level courses' to prevent churning.
+A clearer view can be seen from the visualization in the link above.
+
 [BCG Open Access Advance Analytics and Machine Learning( Churn Prediction)](https://github.com/Funmilayo-Aina/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
 
 - Input
