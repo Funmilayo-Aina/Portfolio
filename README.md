@@ -29,12 +29,16 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 [Module 2:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
  - Report writing 
- - 
+ - Django
+ - JSON and Beautiful Soup
+ - API
 [Module 3:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
--
--
+- ETL process
+- SQL (MySQL, SQLite3 , MongoDb)
+- 
 [Module 4:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 - Using Business intelligence tools like Power BI and Tableau for visualization and to develop analytics interactive dashboards.
+
 
 
 • .
