@@ -49,7 +49,7 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 - Learning PowerBI
 - Big Data
 
-[Entry level challenge(Data Analytics Track)]()
+[Entry level challenge(Data Analytics Track)](https://github.com/Funmilayo-Aina/Entrylevel-Challenge-Data-Analytics-Track)
 - Input
  #### Udemy Business Analysis
  
@@ -57,13 +57,16 @@ There is a need for increasing revenue generation by Udemy.
 We have been asked to analyze the given historical dataset for trends that could show the impact of increasing the cost of web development courses as a means of generating the desired revenue.
 
 - Background
+
 Tracking courses performance on revenue generation and analyzing if charging more on popular courses would have a positive impact on Udemy revenue generation.
 Understanding where opportunities to increase revenue may lie.
 Furthermore analysis would allow us to size the business impact of a proposed increments.
 
  - Designs
+ 
 The data were cleaned with Google sheet and exported to Tableau for visualization.
 - Findings
+- 
 [👩View findings on Tableau](https://public.tableau.com/app/profile/funmilayo.aina)
 
 There were missing values in some columns while some columns have duplicate values. The duplicates were removed.
