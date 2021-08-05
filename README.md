@@ -23,9 +23,12 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 [Module 1:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 -  python programming
 -  Using python for data analysis.
-- Using advance Excel for financial analysis
-- Using macro for responsive app creation
-- 
+-  learning python libraries
+-  Learning Beautiful Soup 
+- Using advance Excel and Pivot table for data analysis
+- Using advance macro for responsive app creation
+- Statistical modelling
+- Git and Github
 [Module 2:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
  - Report writing 
@@ -35,11 +38,15 @@ For a more visually pleasant experience for browsing the portfolio you can also,
  - 
 [Module 3:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 - ETL process
-- SQL(MySQL, SQLite3 , MongoDb)
+- SQL and DBA (MySQL, SQLite3 , MongoDb)
+- Mini Project(She'ro App Project)
+- Community task(Tech-STEM Career talk)
 - 
+
 [Module 4:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 - Machine learning
-- Using Business intelligence tools like Power BI and Tableau for visualization and to develop analytics interactive dashboards
+- Using Business intelligence tools like Tableau for visualization and to develop analytics interactive dashboards
+- Learning PowerBI
 - Big Data
 
 [BCG Open Access Advance Analytics and Machine Learning( Churn Prediction)](https://github.com/Funmilayo-Aina/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program)![h-heyerlein-ndja2LJ4IcM-unsplash](https://user-images.githubusercontent.com/84969489/128058856-824cc3d6-3995-471b-830d-406eb0b2c3eb.jpg)
