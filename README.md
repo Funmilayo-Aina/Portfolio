@@ -4,7 +4,7 @@
 
 [LinkedIn: Funmilayo Aina](https://www.linkedin.com/in/funmilayomaina/) 
 
-For a more visually pleasant experience for browsing the portfolio you can also, check out GirlTechyScientist.com or FunmilayoAina.Pythonanywhere.com
+For a more visually pleasant experience for browsing the portfolio you can also, check out GirlTechyScientist.com or FunmilayoAina.pythonanywhere.com
 
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
 
@@ -28,21 +28,21 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 - Using advance macro for responsive app creation
 - Statistical modelling
 - Git and Github
-- 
+
 [Module 2:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
  - Report writing 
  - Django
  - JSON and Beautiful Soup
  - API
- - 
+ 
 [Module 3:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
 
 - ETL process
 - SQL and DBA (MySQL, SQLite3 , MongoDb)
 - Mini Project(She'ro App Project)
-- Community task(Tech-STEM Career talk)
-- 
+- Community Task(Tech-STEM Career talk)
+
 
 [Module 4:](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship) 
 
@@ -78,11 +78,11 @@ PowerCo is a major gas and electricity utility that supplies to corporate, SME (
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 We have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. Detail in the repo
 - Output and impact: 
-  After advanced data analysis and modelling. The was a clear evidence that discount would not prevent customers from churning
+  After advanced data analysis and modelling. There was a clear evidence that discount would not prevent customers from churning
 
 ![dillon-kydd-2keCPb73aQY-unsplash](https://user-images.githubusercontent.com/84969489/128059426-ffda4d4c-9aab-47d4-938d-ca83b7b21ece.jpg)
 
-### [Predicting Boston Housing Prices](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
+[Predicting Boston Housing Prices](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
 
 A model to predict the value of a given house in the Boston real estate market using various statistical modelling tools. Identified the best price that a client can sell their house utilizing machine learning.
 
@@ -95,7 +95,7 @@ A model to predict the value of a given house in the Boston real estate market u
  
  [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
 
-#### Tools Familiar with :
+#### Familiar with :
 
   - HTML, CSS, Javascript, 
 #### Basic knowledge in:
@@ -104,7 +104,7 @@ A model to predict the value of a given house in the Boston real estate market u
 
   Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), 
   MySQL, SQLite3, PostGreSQL, MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits, Django framework
-  Python programming, ETL process
+  Python programming, ETL process, Version Control
 
 
 [Data Analysis and Visualisation] ![luke-chesser-JKUTrJ4vK00-unsplash](https://user-images.githubusercontent.com/84969489/128060391-e16c2546-b483-4e0b-ab21-aa73c8ed6653.jpg)
@@ -117,7 +117,7 @@ A model to predict the value of a given house in the Boston real estate market u
    - Titanic Disaster Dataset -Exploratory Analysis of the passengers onboard RMS Titanic using Pandas,matplotlib, and Seaborn visualisations.
     - BCG Open Access Advance Analytics and Machine Learning
     - Udemy Market Analysis for Courses that can increase revenue generation.
-    - 
+    
    [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
    
  #### Inferential Statistics and statistical modelling:👇 ####
