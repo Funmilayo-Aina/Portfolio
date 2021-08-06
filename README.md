@@ -118,11 +118,11 @@ A model to predict the value of a given house in the Boston real estate market u
     - BCG Open Access Advance Analytics and Machine Learning
     - Udemy Market Analysis for Courses that can increase revenue generation.
     - 
-   [View Project][View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
+   [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
    
  #### Inferential Statistics and statistical modelling:👇 ####
  
- #### Women Techsters Mini project ####
+ ##### Women Techsters Mini project #####
  
 - Analysis of Women Abused during Covid_19 lockdown and community intervention using rapid response App (She’ro App) 
 
