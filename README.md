@@ -114,11 +114,11 @@ A model to predict the value of a given house in the Boston real estate market u
 
    - [KMPG Data Analytic Virtual Experience](https://github.com/Funmilayo-Aina/KPMG-Data-Analytics-Virual-Experience)
    
-   - Titanic Disaster Dataset -Exploratory Analysis of the passengers onboard RMS Titanic using Pandas,matplotlib, and Seaborn visualisations.
+   - Titanic Disaster Dataset - Exploratory Analysis of the passengers onboard RMS Titanic using Pandas,matplotlib, and  Seaborn visualisations.
    
-    - BCG Open Access Advance Analytics and Machine Learning
+  - BCG Open Access Advance Analytics and Machine Learning
     
-    - Udemy Market Analysis for Courses that can increase revenue generation.
+  - Udemy Market Analysis for Courses that can increase revenue generation.
     
    [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
    
@@ -208,26 +208,22 @@ A model to predict the value of a given house in the Boston real estate market u
  
 - SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1
  
-- Project governance and Project Management Office (PMO)(Advance) Issuing authorityThe Open University
+- Scrum Master Certification & Agile Scrum Project Management 
  
-- Project management: the start of the project journey(Advance) Issuing authorityThe Open University
- 
-- Scrum Master Certification & Agile Scrum Project Management Issuing authority Udemy
- 
-- [2021] Agile Project Management 19 Courses in 1 Issuing authority Udemy
+- [2021] Agile Project Management 19 Courses in 1 
  
 - COMPUTER PROGRAMMING FOR EVERYONE 
 - Public health
-- DNA to Protein Function Using Bioinformatics Issuing authority Wellcome Genome Campus
+- DNA to Protein Function Using Bioinformatics 
  
  - Health care market place 
  
 ### Statement of Participation ###
 
-- Project governance and Project Management Office (PMO) Issuing authorityOpenlearn
-- Approaches to softwaredevelopment  Issuing authorityOpenlearn
-- Project management: the start of the project journey Issuing authorityOpenlearn
-- Software development for enterprise systems Issuing authorityOpenlearn
+- Project governance and Project Management Office (PMO) 
+- Approaches to softwaredevelopment  
+- Project management: the start of the project journey 
+- Software development for enterprise systems
 
 ### Professional Association ###
 - Global Ambassador and Session Facilitator:@Women TechNetwork
