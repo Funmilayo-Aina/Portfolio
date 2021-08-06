@@ -115,7 +115,9 @@ A model to predict the value of a given house in the Boston real estate market u
    - [KMPG Data Analytic Virtual Experience](https://github.com/Funmilayo-Aina/KPMG-Data-Analytics-Virual-Experience)
    
    - Titanic Disaster Dataset -Exploratory Analysis of the passengers onboard RMS Titanic using Pandas,matplotlib, and Seaborn visualisations.
+   
     - BCG Open Access Advance Analytics and Machine Learning
+    
     - Udemy Market Analysis for Courses that can increase revenue generation.
     
    [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
