@@ -97,7 +97,7 @@ A model to predict the value of a given house in the Boston real estate market u
 
 #### Techical Skills
 
-#### Basic knowledge in:
+##### Basic knowledge in:
    - C programming, PHP, PowerBI, SAS, R 
 #### Familiar with: 
   - HTML, CSS, Javascript, 
