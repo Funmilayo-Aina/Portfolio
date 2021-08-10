@@ -122,9 +122,9 @@ A model to predict the value of a given house in the Boston real estate market u
     
    [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
    
-#### Inferential Statistics and statistical modelling:👇 ####
+#### Inferential Statistics and statistical modelling
  
-##### Women Techsters Mini project #####
+##### Women Techsters Mini project 
  
 - Analysis of Women Abused during Covid_19 lockdown and community intervention using rapid response App (She’ro App) 
 
