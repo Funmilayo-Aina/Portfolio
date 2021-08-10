@@ -97,14 +97,12 @@ A model to predict the value of a given house in the Boston real estate market u
 
 #### Techical Skills
 
-
-#### Familiar with: 
-  - HTML, CSS, Javascript, 
 #### Basic knowledge in:
    - C programming, PHP, PowerBI, SAS, R 
+#### Familiar with: 
+  - HTML, CSS, Javascript, 
 #### Core Competencies
-
-  Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), 
+  -Machine Learning, Statistics, Python libraries (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn,Matplotlib), 
   MySQL, SQLite3, PostGreSQL, MongoDB,Tableau, Advanced Excel,VBA, MS-Suits, G-Suits, Django framework
   Python programming, ETL process, Version Control
 
