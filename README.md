@@ -95,8 +95,9 @@ A model to predict the value of a given house in the Boston real estate market u
  
  [View Project](https://github.com/Funmilayo-Aina/Women-Techster-Data-Science-Fellowship)
 
-#### Familiar with :
+#### Techical Skills
 
+#### Familiar with 
   - HTML, CSS, Javascript, 
 #### Basic knowledge in:
    - C programming, PHP, PowerBI, SAS, R 
