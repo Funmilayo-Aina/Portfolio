@@ -51,13 +51,14 @@ For a more visually pleasant experience for browsing the portfolio you can also,
 - Learning PowerBI
 - Big Data
 
-### Entry level challenge(Data Analytics Track
+### Entry level challenge(Data Analytics Track 
+
 [View Project](https://github.com/Funmilayo-Aina/Entrylevel-Challenge-Data-Analytics-Track)
 
 - 
- #### Udemy Business Analysis ####
+ #### Udemy Business Analysis 
  
- ##### About Project #####
+ ##### About Project 
 
 There is a need for increasing revenue generation by Udemy.
 We have been asked to analyze the given historical dataset for trends that could show the impact of increasing the cost of web development courses as a means of generating the desired revenue.
