@@ -4,8 +4,6 @@
 
 [LinkedIn: Funmilayo Aina](https://www.linkedin.com/in/funmilayomaina/) 
 
-For a more visually pleasant experience for browsing the portfolio you can also, check out GirlTechyScientist.com or FunmilayoAina.pythonanywhere.com
-
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
 
 ##  About me 
@@ -232,4 +230,4 @@ A model to predict the value of a given house in the Boston real estate market u
 
 ###### You can contact me through the link on my profile.
 
- Visit my github repositories,[Tableau](https://public.tableau.com/app/profile/funmilayo.aina) or Funmilayo.Aina@pythonanywhere.com for indepth details of my previous works.
+ Visit my github repositories,[Tableau](https://public.tableau.com/app/profile/funmilayo.aina) or Funmilayo.Aina@pythonanywhere.com to read more about me.
